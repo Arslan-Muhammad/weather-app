@@ -1,0 +1,9 @@
+.navtext li{
+    display: inline;
+    padding-right: 20px;
+    
+}
+.navtext li a{
+    text-decoration: none;
+    color: white;
+}
